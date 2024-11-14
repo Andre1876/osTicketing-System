@@ -18,7 +18,7 @@ This repository demonstrates the process of setting up and configuring an osTick
 4. **Configure IIS** to support PHP and osTicket.
 5. **Test the setup** by browsing to the local IP address.
 
-Please refer to the [installation guide](docs/installation-guide.md) for detailed instructions on setting up osTicket.
+Please refer to the [installation guide](https://osticket.com/docs/installation-guide.md) for detailed instructions on setting up osTicket.
 
 ---
 **Resources:**
