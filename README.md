@@ -26,11 +26,13 @@ Please refer to the [installation guide](https://osticket.com/docs/installation-
 - [PHP Installation Guide](https://www.php.net/manual/en/install.php)
 - [IIS Setup Guide](https://docs.microsoft.com/en-us/iis/install/)
 
-
+<!-- Why do programmers hate nature? -->
+<!-- It has too many bugs! 🐛 -->
 ---
 
 # osTicket Setup Project
-
+<!-- How many programmers does it take to change a light bulb? -->
+<!-- None. It’s a hardware problem! 🔧 -->
 
 <details>
 <summary><strong>Technologies Used</strong></summary>
@@ -73,7 +75,8 @@ Please refer to the [installation guide](https://osticket.com/docs/installation-
 7. Open a browser within the VM to access the lab files needed for osTicket.
 
 </details>
-
+<!-- If you’re not part of the solution, you’re part of the problem. -->
+<!-- Unless you’re a programmer, then you’re probably both. 🤔 -->
 ---
 
 ## Installing osTicket Files
@@ -124,7 +127,9 @@ Please refer to the [installation guide](https://osticket.com/docs/installation-
 
 1. Download and install **Visual C++**.
 2. Download and install **MySQL**.
-
+<!-- There are two types of people in the world: -->
+<!-- 1. Those who can extrapolate from incomplete data... -->
+<!-- 2. ... and the rest of us. 😅 -->
 </details>
 
 <details>
@@ -161,7 +166,8 @@ Please refer to the [installation guide](https://osticket.com/docs/installation-
 
 1. Unzip the osTicket files.
 2. Move the **uploads** folder to **C:\inetpub\wwwroot** and rename it to **osTicket**.
-
+<!-- Why do programmers prefer to work in silence? -->
+<!-- Because they don't want to deal with too many... breaks! 😂 -->
 </details>
 
 <details>
