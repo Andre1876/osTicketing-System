@@ -238,3 +238,6 @@ Please refer to the [installation guide](https://osticket.com/docs/installation-
 **Congratulations!** You have successfully installed osTicket. From here, you can:
 - **Explore osTicket functionalities** for managing and resolving support tickets.
 - **Learn administrative features** such as account setup and ticket prioritization.
+
+
+<h2>  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100"> </h2>
