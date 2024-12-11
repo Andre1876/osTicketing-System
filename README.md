@@ -59,7 +59,7 @@ Please refer to the [installation guide](https://osticket.com/docs/installation-
 
 </details>
 
----
+----
 
 ## Prerequisites
 
